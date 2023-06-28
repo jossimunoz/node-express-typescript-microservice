@@ -1,5 +1,5 @@
 {
-  "name": "inventory",
+  "name": "node-express-typescript-microservice",
   "version": "1.0.0",
   "main": "dist/index.js",
   "scripts": {
